@@ -1,0 +1,32 @@
+* {
+    background: plum;
+}
+.contain {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container a {
+    color: black;
+    margin: 0 10px;
+}
+.para {
+    text-align: center;
+}
+.parent {
+    text-align: center;
+    padding: 0 100px;
+}
+.logo {
+   display: block;
+   margin-left: auto;
+  margin-right: auto;
+   width: 60%;
+   border-radius: 8px;
+   padding-bottom: 30px;
+}
